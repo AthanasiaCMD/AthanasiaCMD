@@ -11,7 +11,7 @@ I don't have anything special, but I hope to be able to change that in the futur
 
 My hobbies include watching Anime, reading, and listening to music!
 
-<img width="450px" src="./img/bawah.jpg" align=center />
+<img width="450px" src="./img/bawah.jpg" align=center/>
 
 <h2 align="center"> ✨ About me ✨ </h2>
 
@@ -40,6 +40,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=AthanasiaCMD&show_icons=true&theme=github_dark" alt="GitHub Stats" width="400" />
+    <br>
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AthanasiaCMD&theme=github_dark" alt="GitHub Streak" width="400" />
 </p>
     
