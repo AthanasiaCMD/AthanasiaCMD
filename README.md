@@ -11,9 +11,7 @@ I don't have anything special, but I hope to be able to change that in the futur
 
 My hobbies include watching Anime, reading, and listening to music!
 
-```
 <img width="" src="./img/bawah.jpg" align=center />
-```
 
 <h2 align="center"> ✨ About me ✨ </h2>
 
