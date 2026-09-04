@@ -35,9 +35,9 @@ Hobbies: Watching Anime, Reading, Listening Music.
 
 ```
 <div align="center">
-### :bar_chart: Stats
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AthanasiaCMD&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AthanasiaCMD&theme=github_dark)
+### 📊Stats
+<img src="https://github-readme-stats-fast.vercel.app/api?username=AthanasiaCMD&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AthanasiaCMD&theme=github_dark" alt="GitHub Streak" />
 </div>
     
 <img width="130px" src="./img/atas.jpg" align=right />
