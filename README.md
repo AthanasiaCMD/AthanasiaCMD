@@ -34,11 +34,14 @@ Location: Anonymous
 Hobbies: Watching Anime, Reading, Listening Music.
 
 ```
-<div align="center">
-### 📊Stats
-<img src="https://github-readme-stats-fast.vercel.app/api?username=AthanasiaCMD&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AthanasiaCMD&theme=github_dark" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <b>📊 Stats</b>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AthanasiaCMD&show_icons=true&theme=github_dark" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AthanasiaCMD&theme=github_dark" alt="GitHub Streak" width="400" />
+</p>
     
 <img width="130px" src="./img/atas.jpg" align=right />
 
