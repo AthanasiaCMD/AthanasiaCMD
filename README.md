@@ -11,7 +11,7 @@ I don't have anything special, but I hope to be able to change that in the futur
 
 My hobbies include watching Anime, reading, and listening to music!
 
-<img width="450" src="./img/bawah.jpg" align=center/>
+<img width="" src="./img/bawah.jpg" align=center/>
 
 <h2 align="center"> ✨ About me ✨ </h2>
 
@@ -75,12 +75,13 @@ When I'm not coding or managing servers, you can find me:
 </div>
 <br>
 
-<div>
+<!-- <div>
 <h2 align="center"> 📊 Statistics 📊 </h2>
 </div>
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@AthanasiaCMD&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>
 <br>
+-->
 <div align="center">
     <img width="625em" src="./img/top-langs.svg" />
 </div>
