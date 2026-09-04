@@ -11,7 +11,7 @@ I don't have anything special, but I hope to be able to change that in the futur
 
 My hobbies include watching Anime, reading, and listening to music!
 
-<img width="" src="./img/bawah.jpg" align=center />
+<img width="450px" src="./img/bawah.jpg" align=center />
 
 <h2 align="center"> ✨ About me ✨ </h2>
 
@@ -52,8 +52,6 @@ When I'm not coding or managing servers, you can find me:
 * 🎵 Listening to Music
 
 ---
-
-<img width="130px" src="./img/tengah.jpg" align=left />
 
 ### 📌 Featured Projects
 
