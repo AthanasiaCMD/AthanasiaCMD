@@ -5,11 +5,15 @@
 </div>
 
 <h2 align="center">Hey there!</h2>
-Athanasia here! I'm a Network Engineer, Cloud Engineer, Cyber Security specialist, and Software Engineer from Indonesia. I work with Javascript, Python, and PHP, specializing in server management, network infrastructure and backend development.
+Athanasia here! I'm a Network Engineer, Cloud Engineer, Cyber Security specialist, and Software Engineer. I work with Javascript, Python, and PHP, specializing in server management, network infrastructure and backend development.
 
 I don't have anything special, but I hope to be able to change that in the future.
 
 My hobbies include watching Anime, reading, and listening to music!
+
+```
+<img width="" src="./img/bawah.jpg" align=center />
+```
 
 <h2 align="center"> ✨ About me ✨ </h2>
 
@@ -22,43 +26,45 @@ root@athanasia: ~/AthanasiaCMD (main)$ neofetch
 ```yaml
 My Profile
 -------------------------------
-Host: athanasia
+Host: Athanasia
 Username: AthanasiaCMD
-Whoami: Anomali People.
+Whoami: Anomali People
 Languages: Indonesia & Japan
 Waifu: 朝凪 海 (Umi Asanagi)
-Pronouns: Ja/Wir.
-Location: Jawa Timur, Indonesia.
+Pronouns: </>
+Location: Anonymous
 Hobbies: Watching Anime, Reading, Listening Music.
 
 ```
+### :bar_chart: Stats
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AthanasiaCMD&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AthanasiaCMD&theme=github_dark)
+```
 
-<div>
-<br>
-<br>
-<br>
-<br>
+<img width="130px" src="./img/atas.jpg" align=right />
 
-<p align="right"><a href = "https://music.youtube.com/watch?v=O48gok_FLCg"><img src = "https://i.ytimg.com/vi/O48gok_FLCg/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>7!! - Orange </b></p>
-<br>
-<br>
+### 🎨 Personal Interests
+When I'm not coding or managing servers, you can find me:
+* 🍿 Watching Anime
+* 📚 Reading
+* 🎵 Listening to Music
 
-<p align="left"><a href = "https://music.youtube.com/watch?v=WwyDpKXG83A"><img  src ="https://i.ytimg.com/vi_webp/WwyDpKXG83A/maxresdefault.webp" width="170" align="right"></a><b><br><br>RADWIMPS - Grand Escape (feat. Toko Miura)</b></p>
+---
+```
+```
+<img width="130px" src="./img/tengah.jpg" align=left />
 
-<br>
-<br>
+### 📌 Featured Projects
 
-<p align="right"><a href="https://music.youtube.com/watch?v=2kBD6ZueXNo"><img src="https://i.ytimg.com/vi_webp/2kBD6ZueXNo/maxresdefault.webp" width="170" align="left"></a><b><br>Aoi Tada - 灼け落ちない翼</b></p>
-<br>
-<br>
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| ☢️ **[Asanagi Crash](https://belum-tersedia)** | WhatsApp bot script bug. | `Node.js` | 🟢 Active |
+| 🌐 **[Waifuhub](https://belum-tersedia)** | Anime streaming. | `JavaScript` `Node.js` `ModuleESM` | 🟡 In Progress |
+| 🌐 **[AthanasiaCloud](https://belum-tersedia)** | Athanasia cloud storage. | `Node.js` `PHP` `MySQL` | 🟡 In Progress |
 
-<p align="left"><a href = "https://music.youtube.com/watch?v=OqQAFmkrzew"><img  src ="https://i.ytimg.com/vi_webp/OqQAFmkrzew/maxresdefault.webp" width="170" align="right"></a><b><br><br>RADWIMPS - すずめ feat.</b></p>
+---
+```
 
-<br>
-</div>
-<br>
-
-<div>
 <h2 align="center"> 📖 Knowledge 📖 </h2>
 </div>
 <div align = "center">
@@ -70,14 +76,14 @@ Hobbies: Watching Anime, Reading, Listening Music.
 </div>
 <br>
 
-<!--<div>
+<div>
 <h2 align="center"> 📊 Statistics 📊 </h2>
 </div>
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ShirokamiRyzen&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@AthanasiaCMD&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>
 <br>
 <div align="center">
-    <img width="625em" src="./github-metrics.svg" />
+    <img width="625em" src="./img/top-langs.svg" />
 </div>
 <br>
 <br>
@@ -87,7 +93,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 ## **📫 Contact**
 
 <a href="https://github.com/AthanasiaCMD"><img align="right" width="100" src="https://c.tenor.com/qxd7xDDEsSYAAAAd/tenor.gif" /></a> **Please Contact me on Instagram for a quick
-response:** [AthanasiaCMD](https://www.instagram.com/athanasia.cmd)
+response:** [Athanasia](https://t.me/athanasiarisolmayo)
 
 **You can also email me here:** athanasia.cmd@gmail.com
 
