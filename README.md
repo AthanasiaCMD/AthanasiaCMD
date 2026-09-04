@@ -34,11 +34,12 @@ Location: Anonymous
 Hobbies: Watching Anime, Reading, Listening Music.
 
 ```
+<div align="center">
 ### :bar_chart: Stats
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AthanasiaCMD&show_icons=true&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AthanasiaCMD&theme=github_dark)
-```
-
+</div>
+    
 <img width="130px" src="./img/atas.jpg" align=right />
 
 ### 🎨 Personal Interests
@@ -48,8 +49,7 @@ When I'm not coding or managing servers, you can find me:
 * 🎵 Listening to Music
 
 ---
-```
-```
+
 <img width="130px" src="./img/tengah.jpg" align=left />
 
 ### 📌 Featured Projects
@@ -61,7 +61,6 @@ When I'm not coding or managing servers, you can find me:
 | 🌐 **[AthanasiaCloud](https://belum-tersedia)** | Athanasia cloud storage. | `Node.js` `PHP` `MySQL` | 🟡 In Progress |
 
 ---
-```
 
 <h2 align="center"> 📖 Knowledge 📖 </h2>
 </div>
